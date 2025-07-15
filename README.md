@@ -20,7 +20,7 @@ Saya adalah seorang profesional Teknologi Informasi dengan latar belakang kuat d
 
 Bagi saya, TKJ adalah fondasi—memahami cara kerja jaringan, server, dan sistem secara mendalam—sementara Cyber Security adalah misi untuk melindungi fondasi tersebut dari berbagai ancaman digital. Saya sangat antusias dalam menganalisis kerentanan, merancang pertahanan siber, dan terus belajar mengikuti perkembangan ancaman yang dinamis.
 
-- 🎓 Lulusan **TKJ** dengan pemahaman fundamental tentang infrastruktur IT.
+- 🎓 Lulusan **TJKT** dengan pemahaman fundamental tentang infrastruktur IT.
 - 🛡️ Bersemangat dalam bidang **Blue Teaming** (pertahanan) dan **Red Teaming** (penyerangan etis).
 - 💡 Saat ini sedang mendalami **Digital Forensics** dan **Cloud Security**.
 - 🌱 Selalu mencari tantangan baru untuk mengasah kemampuan.
