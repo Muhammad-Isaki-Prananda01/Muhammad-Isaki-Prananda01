@@ -45,6 +45,12 @@ Berikut adalah beberapa teknologi dan tools yang saya kuasai dan gunakan:
     <td align="center" width="180">
       <strong>Programming & Tools</strong>
     </td>
+    <td align="center" width="180">
+      <strong>Software</strong>
+    </td>
+    <td align="center" width="180">
+      <strong>Others</strong>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -66,6 +72,12 @@ Berikut adalah beberapa teknologi dan tools yang saya kuasai dan gunakan:
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"/>
       <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
