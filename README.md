@@ -5,7 +5,7 @@
 ---
 
 ## **👋 About Me**  
-Halo! Saya **Muhammad Isaki Prananda**, seorang siswa jurusan **Teknik Komputer dan Jaringan (TKJ)** yang bersemangat dalam dunia teknologi, jaringan, dan pemrograman. Saya suka mengeksplorasi hal-hal baru terkait IT, mulai dari konfigurasi jaringan, keamanan siber, hingga pengembangan perangkat lunak.  
+Halo! Saya **Muhammad Isaki Prananda**, Seorang Siswa Jurusan **Teknik Jaringan Komputer Dan Telekomunikasi (TJKT)** yang bersemangat dalam dunia teknologi, jaringan, dan pemrograman. Saya suka mengeksplorasi hal-hal baru terkait IT, mulai dari konfigurasi jaringan, keamanan siber, hingga pengembangan perangkat lunak.
 
 🔧 **Skills:**  
 - **Networking** (Cisco Packet Tracer, MikroTik, TCP/IP)  
