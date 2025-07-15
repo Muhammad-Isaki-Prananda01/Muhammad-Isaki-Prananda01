@@ -16,9 +16,9 @@
 
 ### 👨‍💻 Tentang Saya
 
-Saya adalah seorang profesional Teknologi Informasi dengan latar belakang kuat dalam **Teknik Komputer dan Jaringan (TKJ)** yang kini memfokuskan diri pada dunia **Cyber Security**.
+Saya adalah seorang profesional Teknologi Informasi dengan latar belakang kuat dalam **Teknik Jaringan Komputer Dan Telekomunikasi (TJKT)** yang kini memfokuskan diri pada dunia **Cyber Security**.
 
-Bagi saya, TKJ adalah fondasi—memahami cara kerja jaringan, server, dan sistem secara mendalam—sementara Cyber Security adalah misi untuk melindungi fondasi tersebut dari berbagai ancaman digital. Saya sangat antusias dalam menganalisis kerentanan, merancang pertahanan siber, dan terus belajar mengikuti perkembangan ancaman yang dinamis.
+Bagi saya, TJKT adalah fondasi—memahami cara kerja jaringan, server, dan sistem secara mendalam—sementara Cyber Security adalah misi untuk melindungi fondasi tersebut dari berbagai ancaman digital. Saya sangat antusias dalam menganalisis kerentanan, merancang pertahanan siber, dan terus belajar mengikuti perkembangan ancaman yang dinamis.
 
 - 🎓 Lulusan **TJKT** dengan pemahaman fundamental tentang infrastruktur IT.
 - 🛡️ Bersemangat dalam bidang **Blue Teaming** (pertahanan) dan **Red Teaming** (penyerangan etis).
