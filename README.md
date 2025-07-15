@@ -64,7 +64,7 @@ Dibuat dengan ❤️ oleh **Muhammad Isaki Prananda**
 ### **📌 Note**  
 Repo ini masih dalam pengembangan. Silakan berkontribusi atau memberikan saran!  
 
-[![Visitors](https://komarev.com/ghpvc/?username=IsakiPrananda&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/IsakiPrananda)  
+[![Visitors](https://komarev.com/ghpvc/?username=IsakiPrananda&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/Muhammad-Isaki-Prananda01)  
 
 ---
 
