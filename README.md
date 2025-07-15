@@ -81,7 +81,7 @@ Berikut adalah beberapa teknologi dan tools yang saya kuasai dan gunakan:
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <a href="https://github.com/nama-pengguna-github-anda">
+  <a href="https://github.com/Muhammad-Isaki-Prananda01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nama-pengguna-github-anda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nama-pengguna-github-anda&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
