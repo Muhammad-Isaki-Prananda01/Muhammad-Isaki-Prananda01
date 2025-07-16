@@ -15,11 +15,11 @@
 
 ### 🔭 About Me
 
-- 🏫 I'm currently a student at **[Nama SMK Anda]** majoring in **TJKT**.
+- 🏫 I'm currently a student at **[SMKN 6 MALANG]** majoring in **TJKT**.
 - 👨‍💻 My main interests are **Cyber Security**, **Programming**, and **Digital Editing**.
 - 🌱 I’m currently diving deeper into penetration testing methodologies and building secure web applications.
 - 💬 Ask me about anything related to Linux, network security, or Python!
-- 📫 How to reach me: **[emailanda@example.com]**
+- 📫 How to reach me: **[arlianto032@gmail.com]**
 
 ---
 
