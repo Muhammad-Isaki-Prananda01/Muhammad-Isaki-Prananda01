@@ -87,9 +87,6 @@ Berikut adalah beberapa teknologi dan tools yang saya kuasai dan gunakan:
 ---
 [![](https://visitcount.itsvg.in/api?id=Muhammad-Isaki-Prananda01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
 
 ### 📫 Hubungi Saya
 
