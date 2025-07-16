@@ -94,3 +94,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+<div align="center">
+© 2025 Muhammad Isaki Prananda | Dibuat Dengan Penuh Suka Cita Dan Semangat
+<div/>
