@@ -27,54 +27,98 @@ Bagi saya, TKJ adalah fondasi—memahami cara kerja jaringan, server, dan sistem
 
 ---
 
-### 💻 Keahlian & Teknologi
+## 💻 Keahlian & Teknologi
 
-Berikut adalah beberapa teknologi dan tools yang saya kuasai dan gunakan:
+Berikut adalah ringkasan tools dan teknologi yang saya kuasai:
 
 <table>
-  <tr>
-    <td align="center" width="180">
-      <strong>Cyber Security</strong>
-    </td>
-    <td align="center" width="180">
-      <strong>Jaringan & Infrastruktur</strong>
-    </td>
-    <td align="center" width="180">
-      <strong>Sistem Operasi</strong>
-    </td>
-    <td align="center" width="180">
-      <strong>Programming & Tools</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=Nmap&logoColor=black" alt="Nmap"/>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"/>
-      <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white" alt="Metasploit"/>
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=Burp-Suite&logoColor=white" alt="Burp Suite"/>
-      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco"/>
-      <img src="https://img.shields.io/badge/MikroTik-29AAE2?style=for-the-badge&logo=MikroTik&logoColor=white" alt="MikroTik"/>
-      <img src="https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="TCP/IP"/>
-      <img src="https://img.shields.io/badge/Proxmox-E52F5A?style=for-the-badge&logo=Proxmox&logoColor=white" alt="Proxmox"/>
-      <img src="https://img.shields.io/badge/VMware-6B7AB3?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"/>
-      <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server"/>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="Bash"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    </td>
-  </tr>
+  <tr>
+    <td align="center" width="180">
+      <strong>Cyber Security</strong>
+    </td>
+    <td align="center" width="180">
+      <strong>Jaringan & Infrastruktur</strong>
+    </td>
+    <td align="center" width="180">
+      <strong>Sistem Operasi</strong>
+    </td>
+    <td align="center" width="180">
+      <strong>Programming & Tools</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=Nmap&logoColor=black" alt="Nmap"/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"/>
+      <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white" alt="Metasploit"/>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=Burp-Suite&logoColor=white" alt="Burp Suite"/>
+      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco"/>
+      <img src="https://img.shields.io/badge/MikroTik-29AAE2?style=for-the-badge&logo=MikroTik&logoColor=white" alt="MikroTik"/>
+      <img src="https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="TCP/IP"/>
+      <img src="https://img.shields.io/badge/Proxmox-E52F5A?style=for-the-badge&logo=Proxmox&logoColor=white" alt="Proxmox"/>
+      <img src="https://img.shields.io/badge/VMware-6B7AB3?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"/>
+      <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server"/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="Bash"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+  </tr>
 </table>
+
+### Penjelasan Mendalam Mengenai Keahlian Saya
+
+<details>
+  <summary><strong>Cyber Security</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Pemindaian Kerentanan & Pemetaan Jaringan</strong>: Menggunakan <strong>Nmap</strong> untuk menemukan host, layanan, dan potensi celah keamanan.</li>
+    <li><strong>Analisis Protokol Jaringan</strong>: Inspeksi paket mendalam dengan <strong>Wireshark</strong> untuk memecahkan masalah dan mendeteksi aktivitas mencurigakan.</li>
+    <li><strong>Penetration Testing</strong>: Mensimulasikan serangan siber dengan <strong>Metasploit Framework</strong> untuk menguji pertahanan sistem.</li>
+    <li><strong>Keamanan Aplikasi Web</strong>: Menemukan dan mengeksploitasi kerentanan seperti SQL Injection & XSS dengan <strong>Burp Suite</strong>.</li>
+    <li><strong>Standar Keamanan</strong>: Menerapkan kerangka kerja <strong>OWASP</strong> untuk membangun dan menguji aplikasi yang aman.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Jaringan & Infrastruktur</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Manajemen Perangkat Jaringan</strong>: Konfigurasi hardware dari <strong>Cisco</strong> dan <strong>MikroTik</strong>.</li>
+    <li><strong>Protokol Fundamental</strong>: Pemahaman mendalam tentang suite <strong>TCP/IP</strong> sebagai dasar komunikasi jaringan.</li>
+    <li><strong>Virtualisasi & Hypervisor</strong>: Mengelola server dan VM menggunakan <strong>Proxmox</strong> dan <strong>VMware</strong>, menunjukkan fleksibilitas di berbagai platform.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Sistem Operasi</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Linux</strong>: Kemahiran di lingkungan Linux, termasuk distribusi populer seperti <strong>Ubuntu</strong> dan <strong>Kali Linux</strong> untuk keperluan keamanan.</li>
+    <li><strong>Windows Server</strong>: Kemampuan untuk mengelola, mengonfigurasi, dan mengamankan lingkungan server berbasis Microsoft.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Programming & Tools</strong></summary>
+  <br>
+  <ul>
+    <li><strong>Scripting & Otomatisasi</strong>: Menggunakan <strong>Python</strong> dan <strong>Bash</strong> untuk mengotomatiskan tugas dan membuat tools kustom.</li>
+    <li><strong>Version Control</strong>: Menggunakan <strong>Git</strong> untuk manajemen kode dan kolaborasi tim.</li>
+    <li><strong>Kontainerisasi</strong>: Memahami praktik deployment modern dengan <strong>Docker</strong> untuk membangun aplikasi yang portabel dan skalabel.</li>
+  </ul>
+</details>
+
 
 ---
 
