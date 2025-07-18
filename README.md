@@ -92,6 +92,17 @@ I'm always open to connecting with like-minded people, collaborating on projects
   </a>
 </div>
 
+---
+<p align="center">
+  🎵 Sekarang Anda Dapat Mendengarkan Playlist Spotify Saya! 🎵
+</p>
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=sportify&logoColor=white" alt="Spotify">
+  </a>
+</p>
+
+---
 ## 📜 License
 
 All my open-source projects are licensed under the **MIT License** unless otherwise specified.
