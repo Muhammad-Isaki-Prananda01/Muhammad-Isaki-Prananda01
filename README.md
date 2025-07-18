@@ -94,7 +94,7 @@ I'm always open to connecting with like-minded people, collaborating on projects
 
 ---
 <p align="center">
-  🎵 Sekarang Anda Dapat Mendengarkan Playlist Spotify Saya! 🎵
+  <strong>🎵 Sekarang Anda Dapat Mendengarkan Playlist Spotify Saya! 🎵 </strong>
 </p>
 <p align="center">
   <a href="#">
