@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-I am a vocational student at **SMK Negeri 6 Malang**, majoring in **Computer and Network Engineering (TJKT)**. I have a profound interest in technology, with a strong focus on cybersecurity and software engineering. I'm a lifelong learner, constantly honing my skills to tackle future challenges and build secure, efficient digital solutions.
+I am a vocational student at **[SMK Negeri 6 Malang](https://www.google.com/maps/place/SMK+Negeri+6+Malang/@-7.978318,112.662726,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7882876bdfd665:0x470f3e7fa1e9f8c7!8m2!3d-7.978318!4d112.6649147!16s%2Fg%2F11b6jrm3z6?entry=ttu)**, majoring in **Computer and Network Engineering (TJKT)**. I have a profound interest in technology, with a strong focus on cybersecurity and software engineering. I'm a lifelong learner, constantly honing my skills to tackle future challenges and build secure, efficient digital solutions.
 
 - 🔭 I’m currently focused on learning **Penetration Testing** and **Secure Network Architectures**.
 - 🌱 I’m deepening my knowledge in **Python** for automation, scripting, and security tool development.
