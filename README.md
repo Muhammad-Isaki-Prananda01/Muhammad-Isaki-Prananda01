@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me
 
-I am a vocational student at **[SMK Negeri 6 Malang](https://www.google.com/maps/place/SMK+Negeri+6+Malang/@-7.978318,112.662726,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7882876bdfd665:0x470f3e7fa1e9f8c7!8m2!3d-7.978318!4d112.6649147!16s%2Fg%2F11b6jrm3z6?entry=ttu](https://www.google.com/maps/place/SMK+Negeri+6+Kota+Malang/@-7.9750206,112.6711406,269m/data=!3m1!1e3!4m6!3m5!1s0x2dd62866628675a5:0xe475311940a81d11!8m2!3d-7.9750697!4d112.6717095!16s%2Fg%2F1hm2xyxz2?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D)**, majoring in **Computer and Network Engineering (TJKT)**. I have a profound interest in technology, with a strong focus on cybersecurity and software engineering. I'm a lifelong learner, constantly honing my skills to tackle future challenges and build secure, efficient digital solutions.
+I am a vocational student at **[SMK Negeri 6 Malang](https://www.google.com/maps/place/SMK+Negeri+6+Kota+Malang/@-7.9750206,112.6711406,269m/data=!3m1!1e3!4m6!3m5!1s0x2dd62866628675a5:0xe475311940a81d11!8m2!3d-7.9750697!4d112.6717095!16s%2Fg%2F1hm2xyxz2?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D)**, majoring in **Computer and Network Engineering (TJKT)**. I have a profound interest in technology, with a strong focus on cybersecurity and software engineering. I'm a lifelong learner, constantly honing my skills to tackle future challenges and build secure, efficient digital solutions.
 
 - 🔭 I’m currently focused on learning **Penetration Testing** and **Secure Network Architectures**.
 - 🌱 I’m deepening my knowledge in **Python** for automation, scripting, and security tool development.
