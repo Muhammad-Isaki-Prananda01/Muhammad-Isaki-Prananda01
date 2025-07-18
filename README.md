@@ -1,100 +1,95 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   <h1>
-    Hi there, I'm Muhammad Isaki Prananda
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey 👋, I'm Muhammad Isaki Prananda
   </h1>
-  <p>
-    A Vocational High School student majoring in TJKT (Computer and Telecommunication Network Engineering).
-    <br/>
-    I'm passionate about exploring the digital world, from securing systems to building amazing things with code.
-  </p>
+  <h3>
+    A passionate TJKT student from Malang, Indonesia, diving deep into Cyber Security and Code.
+  </h3>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 ---
 
-### 🔭 About Me
+### 👨‍💻 Tentang Saya
 
-- 🏫 I'm currently a student at Vocational High School **[SMKN 6 MALANG]** majoring in **TJKT**.
-- 👨‍💻 My main interests are **Cyber Security**, **Programming**, and **Digital Editing**.
-- 🌱 I’m currently diving deeper into penetration testing methodologies and building secure web applications.
-- 💬 Ask me about anything related to Linux, network security, or Python!
-- 📫 How to reach me: **[arlianto032@gmail.com]**
+Saya adalah seorang pelajar di **SMK Negeri 6 Malang** dengan jurusan **Teknik Jaringan Komputer dan Telekomunikasi (TJKT)**. Saya memiliki ketertarikan yang mendalam pada dunia teknologi, khususnya di bidang keamanan siber dan pengembangan perangkat lunak. Saya senang belajar hal-hal baru dan terus mengasah kemampuan saya untuk menghadapi tantangan di masa depan.
 
----
-
-### 🚀 My Tech Stack & Tools
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <div align="center">
-        <h4>🔐 Cyber Security</h4>
-        <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/></a><br/>
-        <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a><br/>
-        <a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/></a><br/>
-        <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-FF7A1F?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/></a><br/>
-        <a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/></a><br/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">
-        <h4>💻 Programming</h4>
-        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a><br/>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a><br/>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a><br/>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a><br/>
-        <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a><br/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">
-        <h4>🎨 Editing & Others</h4>
-        <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black" alt="Photoshop"/></a><br/>
-        <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" alt="Premiere Pro"/></a><br/>
-        <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a><br/>
-        <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a><br/>
-        <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a><br/>
-      </div>
-    </td>
-  </tr>
-</table>
+- 🔭 Saat ini saya sedang fokus belajar tentang **Penetration Testing** dan **Network Security**.
+- 🌱 Saya sedang mendalami bahasa pemrograman **Python** untuk automasi dan scripting.
+- 👯 Saya mencari peluang untuk berkolaborasi dalam proyek *open-source* yang berkaitan dengan keamanan.
+- 💬 Tanya saya tentang apa pun yang berhubungan dengan Jaringan Komputer, Linux, atau Cyber Security!
 
 ---
 
-### 📊 My GitHub Stats
+### 🚀 Hobi & Minat
 
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Isaki-Prananda01&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Isaki-Prananda01&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Isaki-Prananda01&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Isaki-Prananda01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-💬 Quote: *"Hacking is not a crime, it's a curiosity."*  
-
-![](https://komarev.com/ghpvc/?username=isakiprananda)  
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Isaki-Prananda01&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+Ketertarikan utama saya terletak pada persimpangan antara rekayasa perangkat lunak dan keamanan infrastruktur. Saya menikmati:
+- **Cyber Security:** Menganalisis celah keamanan, melakukan *penetration testing*, dan merancang sistem yang aman.
+- **Coding:** Membangun aplikasi dan alat (tools) yang bermanfaat menggunakan berbagai bahasa pemrograman.
+- **TJKT:** Mengkonfigurasi jaringan, mengelola server, dan mendalami seluk beluk infrastruktur IT.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Isaki-Prananda01&icon=9&color=3)](https://visitcount.itsvg.in)
 
-### 📫 Connect with Me
+### 🛠️ Tools & Keterampilan
+
+Saya membagi keahlian saya ke dalam beberapa kategori utama untuk menunjukkan fokus dan area kompetensi saya.
+
+| Kategori              | Teknologi & Tools                                                                                                                                                                                                                                                                                          |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bahasa Pemrograman** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>                               |
+| **Sistem Operasi** | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/> <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/> |
+| **Keamanan Siber** | <img src="https://img.shields.io/badge/Metasploit-007BFF?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/> <img src="https://img.shields.io/badge/Burp_Suite-FF7A00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/> <img src="https://img.shields.io/badge/Nmap-4D4D4D?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>             |
+| **Jaringan & Infra** | <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/> <img src="https://img.shields.io/badge/MikroTik-008ECF?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>                                 |
+| **Lainnya** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/VirtualBox-2B598C?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>                                                                                                                                              |
+
+
+---
+
+### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-username]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/[your-twitter-username]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/[your-instagram-username]">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
+---
+
+### 📜 Quote Favorit
+
+> "The quieter you become, the more you are able to hear."
+> \- *Rumi*
+
+---
+
+### 📬 Hubungi Saya
+
+Jika Anda tertarik untuk berdiskusi, berkolaborasi, atau sekadar menyapa, jangan ragu untuk menghubungi saya!
+
 <div align="center">
-© 2025 Muhammad Isaki Prananda | Dibuat Dengan Penuh Suka Cita Dan Semangat
-<div/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-red?style=for-the-badge&logo=gmail" alt="Gmail Say Hello">
+  </a>
+</div>
+
+<div align="center">
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="Footer">
+</p>
+</div>
