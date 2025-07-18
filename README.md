@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29ucG5jemJyOWxrZWs2a21mdGxyc3J3bTVzczlscjg1bHFmamFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
   <br/>
   <h1>
     Hey there, I'm Muhammad Isaki Prananda
