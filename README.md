@@ -1,10 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29ucG5jemJyOWxrZWs2a21mdGxyc3J3bTVzczlscjg1bHFmamFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%" />
   <br/>
-  <h1>
-    Hey there, I'm Muhammad Isaki Prananda
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF00FF,00FFFF&center=true&vCenter=true&width=500&lines=I'm+Muhammad+Isaki+Prananda" />
+  </p>
   <h3>
     A passionate Computer & Network Engineering student from Malang, Indonesia, diving deep into the world of Cyber Security and Software Development.
   </h3>
