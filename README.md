@@ -77,6 +77,14 @@ I have hands-on experience with a variety of tools and technologies across diffe
 
 ---
 
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src=https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
+</p>
+
+---
+
 ### 📬 Get In Touch
 
 I'm always open to connecting with like-minded people, collaborating on projects, or just having a chat. Feel free to reach out!
